@@ -1,2 +1,3 @@
 # react
-various react-related stuff
+various react-related stuff;
+mostly exercises from courses
